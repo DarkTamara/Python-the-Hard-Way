@@ -1,0 +1,8 @@
+Notite si chestii care mi s epare mie ca ar trebui sa le tin:
+
+to run stuff, powershell and python before the name
+^ (caret) 
+# pound character (comments)
+daca s chestii cu ' to print use " 
+Why does the # in print "Hi # there." not get ignored?
+The # in that code is inside a string, so it will be put into the string until the ending " character is hit. These pound characters are just considered characters and aren't considered comments.
